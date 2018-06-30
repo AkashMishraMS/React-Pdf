@@ -1,0 +1,25 @@
+{
+  "name": "demo2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "draft-js-export-html": "^1.2.0",
+    "html2canvas": "^1.0.0-alpha.12",
+    "jspdf": "^1.4.1",
+    "ract": "^0.0.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "semantic": "^0.0.1",
+    "semantic-ui-css": "^2.3.2",
+    "semantic-ui-react": "^0.81.3",
+    "ui": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
